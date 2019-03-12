@@ -1,5 +1,5 @@
 #This is a Python3 implementation of ISO 7064 Mod 37,36
-#
+#by Richard Gooch
 #This is implemented by way of example for the GRid Code (using an example e.g. A12425GABC1234002-x where x is the check digit (a1) that we want to find)
 #The layout for this would be
 #
